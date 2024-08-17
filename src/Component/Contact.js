@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="mt-10 md:p-5 p-2">
       <div className="p-3 rounded-xl flex items-center gap-10">
-        <h1 className="text text-3xl font-bold ms-32">
+        <h1 className="text md:text-3xl text-xl font-bold ms-32">
           تواصل مع فريق YSS لمساعدتك
         </h1>
         <div className="flex flex-col gap-4">
